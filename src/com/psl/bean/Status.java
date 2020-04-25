@@ -1,0 +1,6 @@
+package com.psl.bean;
+
+public enum Status {
+
+	SUBMITTED,CANCELLED,ACCEPTED,DECLINED,PACKAGED,SHIPPED,DELIVERED
+}
